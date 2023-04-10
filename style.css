@@ -28,6 +28,7 @@ input {
     outline: none;
     padding: 0.5rem 2.5rem;
     border-radius: 5px;
+    color: #fff;
 }
 
 input::placeholder {
